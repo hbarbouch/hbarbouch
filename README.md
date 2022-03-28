@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hbarbouch, 25 years old software engineer
+- 👀 I’m interested in full-stack development and artificial intelligence
+- 📫 How to reach me (mail : barbouchhamza@outlook.com || LinkedIn : https://ma.linkedin.com/in/hamza-barbouch)
